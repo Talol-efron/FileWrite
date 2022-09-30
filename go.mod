@@ -1,3 +1,3 @@
-module github.com/Talol-efron/fileWrite
+module fileWrite
 
 go 1.19
